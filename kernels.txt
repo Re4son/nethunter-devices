@@ -2,6 +2,9 @@ Locations of all kernels used in Kali NetHunter.
 
 If you wish to add a kernel/new device, leave a link to source here and feel free to add your name if you wish:
 
+# - Planet Computers Gemini
+# git clone https://github.com/Re4son/gemini-kali-linux-kernel-3.18
+
 # - ZTE Axon 7
 # MiFavor
 # git clone https://github.com/jcadduono/android_kernel_zte_msm8996.git -B nethunter-6.0
